@@ -2,6 +2,7 @@ import numpy as np
 from scipy import linalg as la
 
 print ('Hello World! This is the master branch!')
+print ('Fries!')
 
 print ('Here goes the TestBranch!')
 A = np.eye(3)
